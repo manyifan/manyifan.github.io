@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industrial Organization | Academic</title>
+    <link>/tags/industrial-organization/</link>
+      <atom:link href="/tags/industrial-organization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Industrial Organization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Jul 2013 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Industrial Organization</title>
+      <link>/tags/industrial-organization/</link>
+    </image>
+    
+    <item>
+      <title>Choosing a licensee from heterogeneous rivals</title>
+      <link>/publication/two-head/</link>
+      <pubDate>Sat, 13 Jul 2013 00:00:00 +0800</pubDate>
+      <guid>/publication/two-head/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Accounting conservatism has a large impact on the users of financial statements. While early studies largely focus on how institutional environment affects accounting conservatism, recent studies show some individual characteristics of managers or audit partners, such as gender, accounting background and overconfidence, affects the use of accounting conservatism. Taking the ample evidence that individual characteristics matters to corporate policy and reporting behavior, is it possible that accountants, as a group, are inherently more conservative than non-accountants? If it is the case, the reports they produce are likely to be more conservative independent of institutional environment.&lt;/p&gt;
+
+&lt;p&gt;In this paper, we examine whether accountants are more conservative. We test the question based on a dataset in one university in China with detailed information about student’s coursework and placement. We track the path from the students’ college admission up to five years after joining the audit profession. We use two behavior proxies based on students’ selection of elective courses.&lt;/p&gt;
+
+&lt;p&gt;First, we find that accounting students are more conservative than non-accounting students. They are also more conservative than finance students, who are likely to become users of financial information after graduation.  Second, we focus on accounting students and find that those who choose to be auditor are no more conservative than those who choose other jobs.  Third, we focus on accounting students who choose to be auditors. We find that more conservative auditors are more likely to stay in audit profession after five years.&lt;/p&gt;
+
+&lt;p&gt;We make two contributions to the literature. First, we provide a new explanation of accounting conservatism by looking at individual accountants. Prior literature on the issue largely focuses on institutional environment and explain at company level. Second, our study is related to the literature that emphasizes individual characteristics. Existing studies have found evidences that accounting experience is associated with conservatism by looking at audit partners, executives or investment bankers. We are the first to study conservatism by examining the natural selection process of accounting profession. Hence, while prior literature cannot answer the question whether accountants’ conservatism is learnt through training and working experience or acquired before training, we find that even before university study, accountant students are already more conservative than non-accounting students.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

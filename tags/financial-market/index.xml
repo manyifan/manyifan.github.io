@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financial market | Manyi Fan</title>
+    <link>/tags/financial-market/</link>
+      <atom:link href="/tags/financial-market/index.xml" rel="self" type="application/rss+xml" />
+    <description>Financial market</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Financial market</title>
+      <link>/tags/financial-market/</link>
+    </image>
+    
+    <item>
+      <title>Breaking News is Good News</title>
+      <link>/publication/storm/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>/publication/storm/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Scientists have shown that humans and non-human animals can avoid choosing an obviously suboptimal choice. This optimal choice hypothesis forms the basis for the theory of rational choice in social science and economics, as well as behavioral ecology. However, many studies have shown that some animals including, pigeons and monkeys, would prefer a suboptimal choice in the presence of informative signals about upcoming reward. Recent studies suggest a potential neural mechanism in monkeys for the preference of informative signals.&lt;/p&gt;
+
+&lt;p&gt;Since humans have not been shown to behave in this way in the laboratory or real world, it would be very difficult to show the impact of preference of informative signal on the behavior of humans, even if there is a similar neural mechanism for human. To overcome the problem, we directly show an informative signal leads to a significant impact on the financial market through a natural experiment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Manyi Fan</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Audit</title>
+      <link>/tags/audit/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/audit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audit fees</title>
+      <link>/tags/audit-fees/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/audit-fees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audit quality</title>
+      <link>/tags/audit-quality/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/audit-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auditing regulation</title>
+      <link>/tags/auditing-regulation/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/auditing-regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auditor competition</title>
+      <link>/tags/auditor-competition/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/auditor-competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>China</title>
+      <link>/tags/china/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-listed firms</title>
+      <link>/tags/cross-listed-firms/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/cross-listed-firms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hong Kong</title>
+      <link>/tags/hong-kong/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/hong-kong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation</title>
+      <link>/tags/regulation/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distraction</title>
+      <link>/tags/distraction/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/distraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleeplessness</title>
+      <link>/tags/sleeplessness/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/sleeplessness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stock market</title>
+      <link>/tags/stock-market/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/stock-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World Cup</title>
+      <link>/tags/world-cup/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/world-cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial market</title>
+      <link>/tags/financial-market/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>/tags/financial-market/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

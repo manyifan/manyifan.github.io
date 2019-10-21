@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stock market | Manyi Fan</title>
+    <link>/tags/stock-market/</link>
+      <atom:link href="/tags/stock-market/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stock market</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Stock market</title>
+      <link>/tags/stock-market/</link>
+    </image>
+    
+    <item>
+      <title>Sleeplessness, Distraction and Stock Market Performance: Evidence from the World Cup</title>
+      <link>/publication/world-cup/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>/publication/world-cup/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;We study how sleeplessness and distraction impact global financial markets. Using the world&amp;rsquo;s most widely viewed sporting event, the FIFA World Cup, we uncover significantly negative stock returns due to the sleeplessness from watching the games overnight and the distraction from the games during trading hours. Both effects are stronger for countries with better soccer game records, and are independent of the sentiment effect due to game results documented in the literature.&lt;br /&gt;
+We document negative sleeplessness and distraction effects, which are statistically significant and economically non-trivial. This may seem striking because financial professionals are used to working long hours and are less attention driven, but still suffer from sleeplessness and distraction. This suggests that firms should require managers and key personnel to avoid making important decisions around significant attention-grabbing events.  Our findings give rationales to the following practical managerial decisions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Some US firms close down business to allow employees to attend to election rallies;&lt;/li&gt;
+&lt;li&gt;Local governments in Brazil were given authority to decide if it should be a holiday, day-off, or other flexible arrangement during the World Cup games;&lt;/li&gt;
+&lt;li&gt;Some firms have email rules not to communicate with colleagues and clients at night; and&lt;/li&gt;
+&lt;li&gt;Firms usually approve business travel class only for long-haul flights.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
